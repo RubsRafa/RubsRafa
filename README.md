@@ -9,12 +9,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.tenor.com/LGHg3qvEKJgAAAAd/funny-animals-animals.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -23,7 +17,9 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="200" src="https://media.tenor.com/LGHg3qvEKJgAAAAd/funny-animals-animals.gif"  />
+</div>
 
 ###
 
@@ -31,5 +27,9 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 </div>
+
+###
+
+<br clear="both">
 
 ###
