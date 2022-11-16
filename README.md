@@ -1,4 +1,4 @@
-<h2 align="left">Olá !!.</h2>
+<h2 align="left">Olá !! Meu nome é Rubia. </h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://gifs.eco.br/wp-content/uploads/2021/09/imagens-e-gifs-de-animais-3.gif"  />
+<div align="center">
+	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Rubia. I like you. Thanks for reading. Have a nice day.">
+</div>
 
 ###
 
