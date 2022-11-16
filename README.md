@@ -9,8 +9,8 @@
 
 ###
 
-<div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Rubia. I like you. Thanks for reading. Have a nice day.">
+<div align="right">
+	<img src="https://media.tenor.com/LGHg3qvEKJgAAAAd/funny-animals-animals.gif" alt="Hello. I'm Rubia. I like you. Thanks for reading. Have a nice day.">
 </div>
 
 ###
