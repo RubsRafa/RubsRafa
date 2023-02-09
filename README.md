@@ -1,4 +1,4 @@
-<h2 align="left">Olá !! Meu nome é Rubia. </h2>
+<h2 align="left">Olá! Meu nome é Rubia. Vamos amigar <3 </h2>
 
 ###
 
@@ -20,6 +20,7 @@
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/LGHg3qvEKJgAAAAd/funny-animals-animals.gif"  />
+  <img height="200" src="https://media.tenor.com/1O-ZWP4-g28AAAAM/lost-confused.gif" />
 </div>
 
 ###
