@@ -1,5 +1,5 @@
-<h2 align="left">Olá! Meu nome é Rubia. Vamos amigar <3 </h2>
-
+<h2 align="center">Hi! I'm Rubia. </h2>
+<h3 align="left">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's help each other!<h3>
 ###
 
 <div align="center">
