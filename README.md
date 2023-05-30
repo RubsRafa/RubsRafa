@@ -1,5 +1,5 @@
 <h2 align="center">Hi! I'm Rubia. </h2>
-<h5 align="left">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's help each other!<h5>
+<h5 align="left">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's do some coding together!<h5>
   
 ###
 
