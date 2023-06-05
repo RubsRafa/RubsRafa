@@ -1,5 +1,5 @@
-<h2 align="center">Hi! I'm Rubia. </h2>
-<h5 align="left">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's do some coding together!<h5>
+<h2 align="center">Hi! I'm Rubia. 👋</h2>
+<h4 align="center">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's do some coding together!<h4>
   
 ###
 
@@ -10,14 +10,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="css3 logo" />
+<div align="center">  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-html5-45b8d8?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-css3-45b8d8?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-45b8d8?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-45b8d8?style=flat-square&logo=TypeScript&logoColor=white" />
 </div>
 
 ###
@@ -29,7 +30,7 @@
 </div>
 
 ###
-
+  
 <br clear="both">
 
 ###
