@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Rubia. 👋</h2>
+<h2 align="center">Hi! I'm ❤️Rubia❤️. </h2>
   
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 <div align="center">
-      <h3>Thank you for visiting my profile! </h3>
+      <h3>❤️Thank you for visiting my profile!❤️ </h3>
       </div> 
   
 <br clear="both">
