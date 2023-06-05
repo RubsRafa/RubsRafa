@@ -1,5 +1,4 @@
 <h2 align="center">Hi! I'm Rubia. 👋</h2>
-<h4 align="center">I like to draw realistic portraits and, recently, I discovered that I also like to code. Let's do some coding together!<h4>
   
 ###
 
@@ -8,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=RubsRafa" height="150" alt="languages graph"  />
 </div>
 
+  ###
+  <div align="center">
+    <h5>I am currently studying programming and discovering my passion for coding. In addition to coding, I also enjoy creating realistic drawings and writing stories from time to time. </h5>
+    <h4>Let's do some coding together!<h4>
+</div>
+  
 ###
 
 <div align="center">  
@@ -30,6 +35,9 @@
 </div>
 
 ###
+<div align="center">
+      <h3>Thank you for visiting my profile! </h3>
+      </div> 
   
 <br clear="both">
 
