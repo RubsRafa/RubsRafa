@@ -77,6 +77,10 @@
           <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
           <img width="12" /> Visual Studio Code
         </td>
+        <td>
+          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="35" alt="next logo"  />
+          <img width="12" /> Next.js
+        </td>
       </tr>
     </tbody>
   </table>      
