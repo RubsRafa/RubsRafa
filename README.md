@@ -18,11 +18,11 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
           <img width="12" /> Javascript
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
           <img width="12" /> Typescript
         </td>
         <td>
@@ -34,29 +34,29 @@
           <img width="12" /> Jest
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
           <img width="12" /> HTML
         </td>
       </tr>      
       <tr>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-          <img width="12" /> CSS
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+          <img width="12" /> CSS3
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
           <img width="12" /> Node.js
         </td>
         <td>
-          <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" height="40" alt="express logo"  />
           <img width="12" /> Express
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
           <img width="12" /> Postgresql
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
           <img width="12" /> MongoDB
         </td>
       </tr>
@@ -70,7 +70,7 @@
           <img width="12" /> GitHub
         </td>
         <td>
-          <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
           <img width="12" /> Linux
         </td>
         <td>
@@ -78,9 +78,23 @@
           <img width="12" /> Visual Studio Code
         </td>
         <td>
-          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="35" alt="next logo"  />
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" height="35" alt="next logo"  />
           <img width="12" /> Next.js
         </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+          <img width="12" /> Docker
+        </td>
+<!--         <td>
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" height="40" alt="git logo" />
+          <img width="12" /> Nest.js
+        </td> -->
+<!--         <td>
+          <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" height="40" alt="docker logo" />
+          <img width="12" /> Redis
+        </td> -->
       </tr>
     </tbody>
   </table>      
