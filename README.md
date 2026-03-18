@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm ❤️Rubia❤️. </h2>
+<h2 align="center">Hi, I'm Rubia! </h2>
   
 ###
 
@@ -9,8 +9,8 @@
 
   ###
   <div align="center">
-    <h5>I am currently studying programming and discovering my passion for coding. In addition to coding, I also enjoy creating realistic drawings and writing stories from time to time. </h5>
-    <h4>Let's do some coding together!<h4>
+    <p>I'm a programming student focused on building real-world projects and improving my coding skills every day.</p>
+    <p>Currently exploring PHP and learning how protocols like HTTP and RPC work in practice.</p>
 </div>
   
 <div align="center" display="flex">
